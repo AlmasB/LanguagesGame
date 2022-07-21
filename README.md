@@ -11,9 +11,3 @@ You may wish to update the FXGL version to [latest](https://github.com/AlmasB/FX
 ```
 mvn javafx:run
 ```
-
-### Run via Gradle
-
-```
-./gradlew run
-```
