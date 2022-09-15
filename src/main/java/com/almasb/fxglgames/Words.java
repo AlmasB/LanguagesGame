@@ -20,5 +20,7 @@ public final class Words {
         CHINESE_MANDARIN.add(new WordData("who", "谁", "shéi"));
         CHINESE_MANDARIN.add(new WordData("often", "经常", "jīngcháng"));
         CHINESE_MANDARIN.add(new WordData("hope", "希望", "xīwàng"));
+        CHINESE_MANDARIN.add(new WordData("solve", "解决", "jiějué"));
+        CHINESE_MANDARIN.add(new WordData("equipment", "装备", "zhuāngbèi"));
     }
 }
